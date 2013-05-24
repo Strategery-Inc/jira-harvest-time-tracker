@@ -3,6 +3,8 @@ Harvest Real-Time Tracking - by Strategery
 
 Track time in Harvest directly from your JIRA issues!
 
+Download this **free** JIRA Plugin at: https://marketplace.atlassian.com/1211356
+
 ### Found a Bug?
 
 If you find a bug with the add-on please report it in the [Issues](https://github.com/Strategery-Inc/jira-harvest-time-tracker/issues) section. We'll make sure its squashed quickly!
