@@ -17,3 +17,11 @@ Please make sure the bug has not been reported already. If it has, feel free to 
 ### Support
 
 We don't offer direct support for this add-on. But you'll find anything you need in the [Wiki](https://github.com/Strategery-Inc/jira-harvest-time-tracker/wiki).
+
+# Screenshots
+
+##### Widget Location
+![images/widget-location.png](images/widget-location.png)
+
+##### Harvest Popup
+![images/track-time-popup.png](images/track-time-popup.png)
