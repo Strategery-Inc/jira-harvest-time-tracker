@@ -1,6 +1,8 @@
 Harvest Real-Time Tracking - by Strategery
 =========================
 
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6DYS38ZQ5PM8)
+
 Track time in Harvest directly from your JIRA issues!
 
 Download this **free** JIRA Plugin at: https://marketplace.atlassian.com/1211356
