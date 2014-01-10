@@ -1,6 +1,10 @@
 Harvest Real-Time Tracking - by Strategery
 =========================
 
+**NEW!** We're raising funds to integrate with JIRA's Worklogs, and we'd appreciate your help! You can contribute here: http://igg.me/at/jira-harvest/x/5397316
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6DYS38ZQ5PM8)
+
 Track time in Harvest directly from your JIRA issues!
 
 Download this **free** JIRA Plugin at: https://marketplace.atlassian.com/1211356
@@ -17,3 +21,11 @@ Please make sure the bug has not been reported already. If it has, feel free to 
 ### Support
 
 We don't offer direct support for this add-on. But you'll find anything you need in the [Wiki](https://github.com/Strategery-Inc/jira-harvest-time-tracker/wiki).
+
+# Screenshots
+
+##### Widget Location
+![images/widget-location.png](images/widget-location.png)
+
+##### Harvest Popup
+![images/track-time-popup.png](images/track-time-popup.png)
