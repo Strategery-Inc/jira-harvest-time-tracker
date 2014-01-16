@@ -21,7 +21,10 @@ We don't offer direct support for this add-on. But you'll find anything you need
 # Screenshots
 
 ##### Widget Location
-![images/widget-location.png](images/widget-location.png)
+![images/Marketplace/20130110/920x450/screen-1-b.png](images/Marketplace/20130110/920x450/screen-1-b.png)
 
 ##### Harvest Popup
-![images/track-time-popup.png](images/track-time-popup.png)
+![images/Marketplace/20130110/920x450/screen-4-b.png](images/Marketplace/20130110/920x450/screen-4-b.png)
+
+##### Worklog Integration
+![images/Marketplace/20130110/920x450/screen-3.png](images/Marketplace/20130110/920x450/screen-3.png)
