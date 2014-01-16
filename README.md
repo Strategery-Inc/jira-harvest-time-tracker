@@ -1,13 +1,9 @@
 Harvest Real-Time Tracking - by Strategery
 =========================
 
-**NEW!** We're raising funds to integrate with JIRA's Worklogs, and we'd appreciate your help! You can contribute here: http://igg.me/at/jira-harvest/x/5397316
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6DYS38ZQ5PM8)
-
 Track time in Harvest directly from your JIRA issues!
 
-Download this **free** JIRA Plugin at: https://marketplace.atlassian.com/1211356
+Download this JIRA Plugin at: https://marketplace.atlassian.com/1211356
 
 ### OnDemand Support
 This plugin is not yet available for OnDemand. As shown in the roadmap below we're planning on adding it there right after we integrate it with JIRA Worklogs. We appreciate your reviews asking for OnDemand availability and we'll do our best to have that ready as soon as possible.
