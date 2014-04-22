@@ -8,6 +8,8 @@ Download this JIRA Plugin at: https://marketplace.atlassian.com/1211356
 ### OnDemand Support
 This plugin is not yet available for OnDemand. As shown in the roadmap below we're planning on adding it there right after we integrate it with JIRA Worklogs. We appreciate your reviews asking for OnDemand availability and we'll do our best to have that ready as soon as possible.
 
+UPDATE: an OnDemand version of the plugin is awaiting approval for the Atlassian Marketplace! We'll update this section with details once its been approved.
+
 ### Found a Bug?
 
 If you find a bug with the add-on please report it in the [Issues](https://github.com/Strategery-Inc/jira-harvest-time-tracker/issues) section. We'll make sure its squashed quickly!
