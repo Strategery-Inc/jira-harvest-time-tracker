@@ -6,9 +6,7 @@ Track time in Harvest directly from your JIRA issues!
 Download this JIRA Plugin at: https://marketplace.atlassian.com/1211356
 
 ### OnDemand Support
-This plugin is not yet available for OnDemand. As shown in the roadmap below we're planning on adding it there right after we integrate it with JIRA Worklogs. We appreciate your reviews asking for OnDemand availability and we'll do our best to have that ready as soon as possible.
-
-UPDATE: an OnDemand version of the plugin is awaiting approval for the Atlassian Marketplace! We'll update this section with details once its been approved.
+As of April 29, 2014 our plugin is also available for OnDemand users! Test it out and give us your feedback. More features coming soon!
 
 ### Found a Bug?
 
