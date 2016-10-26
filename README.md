@@ -5,9 +5,6 @@ Track time in Harvest directly from your JIRA issues!
 
 Download this JIRA Plugin at: https://marketplace.atlassian.com/1211356
 
-### OnDemand Support
-As of April 29, 2014 our plugin is also available for OnDemand users! Test it out and give us your feedback. More features coming soon!
-
 ### Found a Bug?
 
 If you find a bug with the add-on please report it in the [Issues](https://github.com/Strategery-Inc/jira-harvest-time-tracker/issues) section. We'll make sure its squashed quickly!
@@ -16,7 +13,7 @@ Please make sure the bug has not been reported already. If it has, feel free to 
 
 ### Support
 
-We don't offer direct support for this add-on. But you'll find anything you need in the [Wiki](https://github.com/Strategery-Inc/jira-harvest-time-tracker/wiki).
+We don't offer direct support for this add-on, except through tickets mentioned above. Please also check the [Wiki](https://github.com/Strategery-Inc/jira-harvest-time-tracker/wiki) for more information.
 
 # Screenshots
 
